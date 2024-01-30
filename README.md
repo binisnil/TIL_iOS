@@ -11,3 +11,4 @@
 ```
 
 ## iOS
+- [비즈니스 로직이란?](https://west-skateboard-0dd.notion.site/55ad946da77e4e1c89554e410aca11a1?pvs=4)
