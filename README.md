@@ -12,3 +12,4 @@
 
 ## iOS
 - [비즈니스 로직이란?](https://west-skateboard-0dd.notion.site/55ad946da77e4e1c89554e410aca11a1?pvs=4)
+- [MVVM 디자인패턴 - 이론편](https://west-skateboard-0dd.notion.site/MVVM-091cb43d34f744659545277ceea787c6?pvs=4)
