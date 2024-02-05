@@ -16,3 +16,4 @@
 - [Coordinator Pattern](https://west-skateboard-0dd.notion.site/Coordinator-Pattern-3861526e3b8b486baa921e04706200bb?pvs=4)
 - [RxSwift가 뭔데요!](https://west-skateboard-0dd.notion.site/RxSwift-5be55f9fcd714da89be106f2b62ba4c9?pvs=4)
 - [Observable, Observer](https://west-skateboard-0dd.notion.site/Observable-Observer-2a63bfdda97e436cb587553bd47ca0f9?pvs=4)
+- [Clean Architecture - 진행 중](https://west-skateboard-0dd.notion.site/Clean-Architecture-ed972de72ba846c3a2c2d4b178f3088a?pvs=4)
