@@ -19,7 +19,7 @@
 - [Observable, Observer](https://west-skateboard-0dd.notion.site/Observable-Observer-2a63bfdda97e436cb587553bd47ca0f9?pvs=4)
 - [Clean Architecture - 진행 중](https://west-skateboard-0dd.notion.site/Clean-Architecture-ed972de72ba846c3a2c2d4b178f3088a?pvs=4)
 - [Dispose, Disposable, DisposeBag](https://www.notion.so/Dispose-Disposable-DisposeBag-392f1a8ed4ef40bb8466fb339624f730?pvs=4)
-- [Observable - just, of, from, create](https://west-skateboard-0dd.notion.site/Observable-just-of-from-create-9aef6a46865e405ca2094bd8523328fd?pvs=4)
+- [Observable - just, of, from, create: create update!](https://west-skateboard-0dd.notion.site/Observable-just-of-from-create-9aef6a46865e405ca2094bd8523328fd?pvs=4)
 
 ## CS
 - [동기, 비동기, 직렬, 동시](https://www.notion.so/7ab088d076a4437089c0a8237b1e0881?pvs=4)
