@@ -23,5 +23,8 @@
 - [Observable - empty, never, range, interval, timer, defer](https://west-skateboard-0dd.notion.site/Observable-empty-never-range-interval-timer-defer-fb32168076ca4a73b81714c4f7368804?pvs=4)
 - [Universal Link](https://west-skateboard-0dd.notion.site/Universal-Link-646906ec927f4b0eb9fc94fdce633d86?pvs=4)
 
+### SwiftUI
+- [Widget을 공부해보자!](https://west-skateboard-0dd.notion.site/Widget-fc79fd589aad43eb95345ebe1c538636?pvs=4)
+
 ## CS
 - [동기, 비동기, 직렬, 동시](https://www.notion.so/7ab088d076a4437089c0a8237b1e0881?pvs=4)
